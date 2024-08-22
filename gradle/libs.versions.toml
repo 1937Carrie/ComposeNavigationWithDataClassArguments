@@ -7,9 +7,9 @@ junitVersion = "1.2.1"
 espressoCore = "3.6.1"
 lifecycleRuntimeKtx = "2.8.4"
 activityCompose = "1.9.1"
-composeBom = "2024.04.01"
+composeBom = "2024.08.00"
 kotlinxSerializationJson = "1.6.3"
-navigationCompose = "2.8.0-beta07"
+navigationCompose = "2.8.0-rc01"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
